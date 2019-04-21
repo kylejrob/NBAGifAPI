@@ -1,0 +1,2 @@
+# NBAGifAPI
+API of NBA GIFs
